@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Xin chào, tôi là Nhớ!
 
-<!--
-**NgocNho-IT/NgocNho-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Một người đam mê phát triển phần mềm và ứng dụng công nghệ vào thực tiễn.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Giới thiệu
+
+* 💻 **Chuyên ngành:** Công nghệ thông tin
+* 🌱 **Định hướng hiện tại:** Học tập và phát triển Web Development
+* 🎯 **Mục tiêu:** Xây dựng các giải pháp Web tối ưu tích hợp công nghệ AI
+
+---
+
+## 🛠️ Kỹ năng & Công cụ
+
+* **Ngôn ngữ lập trình:** Python, JavaScript
+* **Quản lý mã nguồn:** Git, GitHub
+
+---
+
+## 📫 Liên hệ
+
+* **Email:** [ngocnhod@gmail.com](mailto:ngocnhod@gmail.com)
+* **GitHub:** [NgocNho-IT](https://github.com/NgocNho-IT)
